@@ -6,7 +6,7 @@ from string import whitespace
 import requests
 import os
 import hashlib
-apikey = '3e8e41f3b4c1487841343aea1d071485e7525b1b71a837a1711408759a84941b'
+apikey = ''
 
 vt_results = {}
 sNo = 0
